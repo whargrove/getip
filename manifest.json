@@ -1,0 +1,13 @@
+{
+	"name" : "GetIP",
+	"description" : "Shows the IP address of your device.",
+	"version" : "0.1",
+	"icons" : { "128" : "128.png",
+	             "19" : "19.png"
+	},
+	"browser_action" : {
+		"default_title" : "GetIP",
+		"default_popup" : "getip.html"
+	},
+	"manifest_version" : 2		
+}
