@@ -2,13 +2,9 @@
 	"name" : "GetIP",
 	"description" : "A simple extension that reveals the public IP address of your device. Icon design by VisualPharm: http://www.visualpharm.com/",
 	"version" : "0.9",
-	"icons" : { "512" : "ethernet-large.png",
-	             "38" : "ethernet@2x.png",
-							 "19" : "ethernet.png"
-	},
 	"browser_action" : {
 		"default_title" : "GetIP",
-		"default_icon" : "ethernet@2x.png",
+		"default_icon" : "icon-128.png",
 		"default_popup" : "getip.html"
 	},
 	"manifest_version" : 2		
