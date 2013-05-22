@@ -1,7 +1,7 @@
 {
 	"name" : "GetIP",
 	"description" : "A simple extension that reveals the public IP address of your device.",
-	"version" : "0.8",
+	"version" : "0.9",
 	"icons" : { "512" : "ethernet-large.png",
 	             "38" : "ethernet@2x.png",
 							 "19" : "ethernet.png"
