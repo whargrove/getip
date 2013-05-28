@@ -10,5 +10,8 @@
 		"default_icon" : "icon-128.png",
 		"default_popup" : "getip.html"
 	},
+	"permissions" : [
+		"clipboardWrite"
+	],
 	"manifest_version" : 2		
 }
