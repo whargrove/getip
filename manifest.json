@@ -13,5 +13,5 @@
 	"permissions" : [
 		"clipboardWrite"
 	],
-	"manifest_version" : 2		
+	"manifest_version" : 2
 }
